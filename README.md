@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">My Profiles</h3>
+<h3 align="left">My Profiles<br>_______________________________________</h3>
 
 ###
 
@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img align="right" height="123" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdqcGRrN2I1b3lwbGwweTFnaWZpNjJ3bWwwdzBrdHZhNThjd3V3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdqcGRrN2I1b3lwbGwweTFnaWZpNjJ3bWwwdzBrdHZhNThjd3V3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 
 ###
