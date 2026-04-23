@@ -25,10 +25,6 @@
 - 🔐 Handling authentication (JWT) and basic security practices
 - 🗄️ Working with databases (MongoDB / MySQL) and designing schemas
 - 🧪 Testing APIs using Postman and debugging backend issues
-- 🛠️ Tools: Git, GitHub, Linux
-- 🚀 Built projects like:
-  - Banking System (C++)
-  - Customer Management System
 - 📚 Improving backend fundamentals and problem solving skills
 <br clear="both"/>
 
