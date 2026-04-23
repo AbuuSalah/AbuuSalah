@@ -99,8 +99,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake-dark.svg" />
   </picture>
 </div>
