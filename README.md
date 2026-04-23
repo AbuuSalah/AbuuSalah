@@ -1,88 +1,98 @@
-<h1 align="left">Hi 👋! I'm Ahmed Mohamed Salah</h1>
+<div align="center">
 
-<h3 align="left">Backend Developer (Node.js)</h3>
+  <!-- Typing animation بدل العنوان الثابت -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ahmed+Mohamed+Salah;Backend+Developer+%7C+Node.js;Problem+Solver+%7C+CS+Student" alt="Typing SVG" />
 
-<p align="left">
-Backend Developer focused on building scalable APIs using Node.js.<br>
-Interested in clean architecture, performance, and real-world problem solving.
+  <br/>
+
+  <!-- Profile Views + Followers badges -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbuuSalah.AbuuSalah&left_text=Profile%20Views&style=flat-square&color=6C63FF" />
+  <img src="https://img.shields.io/github/followers/AbuuSalah?label=Followers&style=flat-square&color=6C63FF" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```txt
+🎓 CS Student @ Faculty of Computers & Information
+🚀 Backend Developer focused on Node.js & scalable APIs
+🧠 Passionate about clean architecture & problem solving
+🌍 Based in Egypt 🇪🇬
+📬 Open to collaboration and internships
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+</p>
+
+### 💾 Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & OS
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbuuSalah&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbuuSalah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuuSalah&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AbuuSalah&theme=tokyonight&hide_border=true&border_radius=8" height="160"/>
 </div>
 
 ---
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbuuSalah.AbuuSalah&left_text=Profile%20Views" />
-</div>
+## 🌐 Connect With Me
 
----
-
-### 🚀 Tech Stack
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
-
-</div>
-
----
-
-### 🌐 My Profiles
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-salah-025436385/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://www.instagram.com/ab_salah00/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
   <a href="https://www.facebook.com/AboSalah2005" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-
   <a href="https://t.me/AhmedMohmadSalah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-<img align="right" height="150" src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" />
-
----
-
-<img src="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" alt="Snake animation" />
+</div>
