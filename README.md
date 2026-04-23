@@ -12,12 +12,9 @@
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
-<img align="right" width="175" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxdXRjazRhbTRyemIzZnM4YW03ZWNtaGxkNG5jbTAzYnJsNGIweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding gif"/>
-
-## 🧑‍💻 About Me
+<img align="right" width="180" src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding gif"/>
 
 - 🎓 **CS Student** @ Faculty of Computers & Information, Egypt 🇪🇬
 - 💼 **Backend Developer (Node.js)** — building REST APIs and handling server-side logic
@@ -26,6 +23,8 @@
 - 🗄️ Working with databases (MongoDB / MySQL) and designing schemas
 - 🧪 Testing APIs using Postman and debugging backend issues
 - 📚 Improving backend fundamentals and problem solving skills
+
+<br clear="both"/>
 <br clear="both"/>
 
 ---
