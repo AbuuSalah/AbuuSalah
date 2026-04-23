@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxdXRjazRhbTRyemIzZnM4YW03ZWNtaGxkNG5jbTAzYnJsNGIweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif"/>
 
 - 🎓 **CS Student** @ Faculty of Computers & Information, Egypt 🇪🇬
 - 💼 **Backend Node.js Developer** — building fast, clean & scalable REST APIs
