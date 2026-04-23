@@ -23,7 +23,6 @@
 - 🔍 Always learning — currently diving deeper into **system design** & **databases**
 - 🤝 Open to **collaboration**, **internships**, and exciting **backend projects**
 - ⚡ Fun fact: I debug better with coffee ☕
-
 <br clear="both"/>
 
 ---
