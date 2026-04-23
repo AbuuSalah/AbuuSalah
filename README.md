@@ -15,7 +15,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxdXRjazRhbTRyemIzZnM4YW03ZWNtaGxkNG5jbTAzYnJsNGIweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif"/>
+<div align="center">
+  <img width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxdXRjazRhbTRyemIzZnM4YW03ZWNtaGxkNG5jbTAzYnJsNGIweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding gif"/>
+</div>
 
 - 🎓 **CS Student** @ Faculty of Computers & Information, Egypt 🇪🇬
 - 💼 **Backend Node.js Developer** — building fast, clean & scalable REST APIs
@@ -94,6 +96,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" />
+  </picture>
 </div>
