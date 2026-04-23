@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Backend Node JS</h1>
+<h2 align="left">Backend Node.js Developer</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<img align="right" height="123" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdqcGRrN2I1b3lwbGwweTFnaWZpNjJ3bWwwdzBrdHZhNThjd3V3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+<h3 align="left">My Profiles</h3>
 
 ###
 
@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AbuuSalah/AbuuSalah/output/snake.svg" alt="Snake animation" />
+<img align="right" height="123" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdqcGRrN2I1b3lwbGwweTFnaWZpNjJ3bWwwdzBrdHZhNThjd3V3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 
 ###
