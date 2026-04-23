@@ -15,9 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-  <img width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxdXRjazRhbTRyemIzZnM4YW03ZWNtaGxkNG5jbTAzYnJsNGIweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding gif"/>
-</div>
+<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxdXRjazRhbTRyemIzZnM4YW03ZWNtaGxkNG5jbTAzYnJsNGIweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding gif"/>
 
 - 🎓 **CS Student** @ Faculty of Computers & Information, Egypt 🇪🇬
 - 💼 **Backend Node.js Developer** — building fast, clean & scalable REST APIs
@@ -25,6 +23,8 @@
 - 🔍 Always learning — currently diving deeper into **system design** & **databases**
 - 🤝 Open to **collaboration**, **internships**, and exciting **backend projects**
 - ⚡ Fun fact: I debug better with coffee ☕
+
+<br clear="both"/>
 
 ---
 
