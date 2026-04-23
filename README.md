@@ -60,15 +60,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuuSalah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuuSalah&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbuuSalah&theme=tokyonight&hide_border=true&border_radius=8" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=AbuuSalah&theme=tokyonight&hide_border=true&border_radius=8" height="180"/>
 </div>
 
 ---
