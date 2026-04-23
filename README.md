@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Typing animation بدل العنوان الثابت -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ahmed+Mohamed+Salah;Backend+Developer+%7C+Node.js;Problem+Solver+%7C+CS+Student" alt="Typing SVG" />
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ahmed+Mohamed+Salah;Backend+Node.js+Developer;Building+Scalable+%26+Clean+APIs;Problem+Solver+%7C+CS+Student" alt="Typing SVG" />
 
   <br/>
 
@@ -15,13 +15,14 @@
 
 ## 🧑‍💻 About Me
 
-```txt
-🎓 CS Student @ Faculty of Computers & Information
-🚀 Backend Developer focused on Node.js & scalable APIs
-🧠 Passionate about clean architecture & problem solving
-🌍 Based in Egypt 🇪🇬
-📬 Open to collaboration and internships
-```
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 **CS Student** @ Faculty of Computers & Information, Egypt 🇪🇬
+- 💼 **Backend Node.js Developer** — building fast, clean & scalable REST APIs
+- 🏗️ Big fan of **Clean Architecture** and writing maintainable code
+- 🔍 Always learning — currently diving deeper into **system design** & **databases**
+- 🤝 Open to **collaboration**, **internships**, and exciting **backend projects**
+- ⚡ Fun fact: I debug better with coffee ☕
 
 ---
 
